@@ -22,19 +22,20 @@ EduMentor is an online learning platform where users can purchase and participat
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/EduMentor.git
-
+```
 2.Navigate to the project folder:
    ```bash
   cd EduMentor
-
+```
 3. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/EduMentor.git
-
+```
 4.Navigate to the project folder:
    ```bash
   cd EduMentor
-
+```
 5.Start the development server:
    ```bash
     python manage.py runserver
+```
